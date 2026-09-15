@@ -2,7 +2,7 @@
 
 Taskboard is a small task management web application.
 
-This is a university demo version made as part of a learning project. It is not a production application.
+This is a university demo version made as part of a learning project.
 
 ## Features
 
